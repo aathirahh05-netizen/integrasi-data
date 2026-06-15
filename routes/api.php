@@ -1,3 +1,5 @@
+<?php
+use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\DimMahasiswaController;
 use App\Http\Controllers\Api\DimProdiController;
 use App\Http\Controllers\Api\DimJenisOrgController;
